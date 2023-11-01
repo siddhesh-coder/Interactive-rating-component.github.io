@@ -34,8 +34,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Here](https://github.com/siddhesh-coder/Interactive-rating-component.github.io#frontend-mentor---interactive-rating-component-solution)
+- Live Site URL: [Here](https://siddhesh-coder.github.io/Interactive-rating-component.github.io/)
 
 ## My process
 
